@@ -1,7 +1,8 @@
-﻿name: ml_mso
- channels:
+name: ml_mso
+channels:
   - conda-forge
   - defaults
+  - pytorch
 dependencies:
   # Core Python
   - python=3.9.21
