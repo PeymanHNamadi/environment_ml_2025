@@ -1,4 +1,4 @@
-﻿name: ml_dwr_2025
+﻿name: ml_dwr
  channels:
   - conda-forge
   - defaults
